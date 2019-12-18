@@ -24,9 +24,17 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](https://plot.ly/~tneha03/1.embed)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+`
+<div>
+    <a href="https://plot.ly/~tneha03/1/?share_key=JuvqATlErkl4nq4c5lpmRd" target="_blank" title="hosts vs listings airbnb dc" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/1.png?share_key=JuvqATlErkl4nq4c5lpmRd" alt="hosts vs listings airbnb dc" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:1" sharekey-plotly="JuvqATlErkl4nq4c5lpmRd" src="https://plot.ly/embed.js" async></script>
+</div>
+`
 
 
 [Image](https://plot.ly/~tneha03/1.embed)
