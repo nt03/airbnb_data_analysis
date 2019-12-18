@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-[Image](https://github.com/nt03/test/blob/master/temp-plot.html)
+[Image](https://plot.ly/~tneha03/1.embed)
 
 
 ### Jekyll Themes
