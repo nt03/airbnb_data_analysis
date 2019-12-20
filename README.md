@@ -1,10 +1,11 @@
-<center> <h1> Analysis of the Effect of Short-Term Rentals like Airbnb on DC Rental Space </h1> </center>
+<center> <h3> Neha Tiwari </h3> </center>
 
 
 
 ## Outline
 
 While DC rental market has grown over the past decade , the number of lower-cost market units [[1]](http://apps.urban.org/features/OurChangingCity/housing/) has fallen and higher rent units now form a greater share of rentals. Additionally, Metropolitan Washington Council of Governments (COG) has projected [[2]](https://www.mwcog.org/newsroom/2018/09/12/new-cog-analysis-recommends-increase-in-area-housing-production/) a housing shortfall in the region due to employment growth currently outpacing housing growth. In the same period, the DC metropolitan area has seen a spurt in home-sharing platforms [[3]](https://www.benzinga.com/pressreleases/19/10/p14550125/dc-short-term-rental-laws-whats-changing-in-october-2019-nomadic-real-estate). The study analyzes the correlation between the shrinking lower cost rental pool and the growth in popularity of short term rentals. It also recommends policy action to restrict and regulate home sharing platforms in the interest of DC renters. (?? maybe keep this line)
+<br>
 
 
 ## Current Policy:
@@ -12,6 +13,7 @@ While DC rental market has grown over the past decade , the number of lower-cost
 Home-sharing platforms, such as Airbnb and VRBO (Vacation Rental By Owner), have dramatically increased in popularity over the past ten years. In high cost-of-living urban areas like Washington DC, lawmakers have argued that short term rental platforms like Airbnb absorb inventory that would otherwise be available for traditional 12-month leases. In major cities throughout the US, local lawmakers have started to take action [[4]](https://www.2ndaddress.com/research/short-term-rental-laws/) to limit the impact of home-sharing on the local housing market. 
 
 In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by the DC Council, which was set to be effective from Oct 1st, 2019. This bill is stricter than previous regulations in terms of regulating properties home-owners can list of these platforms and the duration. However, the regulation is still in grey zone as it is under consideration by the DC Zoning Commission which will hold a hearing on the proposed changes soon. 
+
 
 ## Analyses and Key Findings: 
  
@@ -32,6 +34,7 @@ The analysis indicates that more homeowners are listing properties in addition t
 
 While rental market is affected by a host of factors like migration to and from the city, housing market trends, property development market among others, there is no denying that home sharing platforms do play a role in affecting the pool of long term rentals. There are a host of factors that make short term rentals more attractive to homeowners than long term rentals like bigger profit margins due to higher daily rates and lower maintenance costs besides lesser regulation and oversight.  
  
+ 
 ## Recommendations:  
  
 Based on the insights derived from the analyses of the listing data the following recommendations aim to regulate the short term rental market by encouraging the use of primary residence for home-sharing while limiting use of surplus properties towards long term rentals. These are: 
@@ -43,13 +46,13 @@ Based on the insights derived from the analyses of the listing data the followin
 
 ## References:
 
-https://wamu.org/story/19/10/18/airbnb-remains-in-a-legal-gray-zone-in-d-c-as-officials-delay-decision-on-regulations/ 
+(https://wamu.org/story/19/10/18/airbnb-remains-in-a-legal-gray-zone-in-d-c-as-officials-delay-decision-on-regulations/) 
  
-https://dcist.com/story/19/10/01/d-c-has-to-sort-out-some-zoning-before-airbnb-regulation-can-go-into-effect/ 
+(https://dcist.com/story/19/10/01/d-c-has-to-sort-out-some-zoning-before-airbnb-regulation-can-go-into-effect/ )
  
-http://apps.urban.org/features/OurChangingCity/housing/ 
+(http://apps.urban.org/features/OurChangingCity/housing/ )
  
-https://greaterdc.urban.org/blog/dcs-eviction-filings-are-down-are-high-rents-blame 
+(https://greaterdc.urban.org/blog/dcs-eviction-filings-are-down-are-high-rents-blame )
  
-https://dc.curbed.com/2017/2/2/14484318/airbnb-bill-dc-washington 
+(https://dc.curbed.com/2017/2/2/14484318/airbnb-bill-dc-washington )
 
