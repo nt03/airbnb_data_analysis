@@ -1,4 +1,6 @@
-# Analysis of the Effect of Short-Term Rentals like Airbnb  DC Rental Space
+<center> <h1> Analysis of the Effect of Short-Term Rentals like Airbnb on DC Rental Space </h1> </center>
+
+<center> Neha Tiwari </center>
 
 ## Outline
 
