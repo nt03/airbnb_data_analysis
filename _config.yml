@@ -1,4 +1,4 @@
 markdown: kramdown
-theme: minima
+remote_theme: banbalter/retlab
 layout: page
-title: "PAGE TITLE"
+title: "Neha Tiwari"
