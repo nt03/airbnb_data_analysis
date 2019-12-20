@@ -1,4 +1,4 @@
-<center> <h3> Neha Tiwari </h3> </center>
+<center> <h2> Neha Tiwari </h2> </center>
 
 
 
@@ -46,13 +46,13 @@ Based on the insights derived from the analyses of the listing data the followin
 
 ## References:
 
-(https://wamu.org/story/19/10/18/airbnb-remains-in-a-legal-gray-zone-in-d-c-as-officials-delay-decision-on-regulations/) 
+[Airbnb Remains In A Legal Gray Zone In D.C. As Officials Delay Decision On Regulations](https://wamu.org/story/19/10/18/airbnb-remains-in-a-legal-gray-zone-in-d-c-as-officials-delay-decision-on-regulations/) 
  
-(https://dcist.com/story/19/10/01/d-c-has-to-sort-out-some-zoning-before-airbnb-regulation-can-go-into-effect/ )
+[D.C. Has To Sort Out Some Zoning Before Airbnb Regulation Can Go Into Effect](https://dcist.com/story/19/10/01/d-c-has-to-sort-out-some-zoning-before-airbnb-regulation-can-go-into-effect/) 
  
-(http://apps.urban.org/features/OurChangingCity/housing/ )
+[Urban Institute: Our Changing City - Housing](http://apps.urban.org/features/OurChangingCity/housing/) 
  
-(https://greaterdc.urban.org/blog/dcs-eviction-filings-are-down-are-high-rents-blame )
+[Urban Institute: DC’s Eviction Filings Are Down. Are High Rents to Blame?](https://greaterdc.urban.org/blog/dcs-eviction-filings-are-down-are-high-rents-blame)
  
-(https://dc.curbed.com/2017/2/2/14484318/airbnb-bill-dc-washington )
+[Stricter limits proposed for Airbnb in D.C.](https://dc.curbed.com/2017/2/2/14484318/airbnb-bill-dc-washington)
 
