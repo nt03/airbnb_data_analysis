@@ -1,6 +1,7 @@
 <center> <h1> Analysis of the Effect of Short-Term Rentals like Airbnb on DC Rental Space </h1> </center>
 
 
+
 ## Outline
 
 While DC rental market has grown over the past decade , the number of lower-cost market units [[1]](http://apps.urban.org/features/OurChangingCity/housing/) has fallen and higher rent units now form a greater share of rentals. Additionally, Metropolitan Washington Council of Governments (COG) has projected [[2]](https://www.mwcog.org/newsroom/2018/09/12/new-cog-analysis-recommends-increase-in-area-housing-production/) a housing shortfall in the region due to employment growth currently outpacing housing growth. In the same period, the DC metropolitan area has seen a spurt in home-sharing platforms [[3]](https://www.benzinga.com/pressreleases/19/10/p14550125/dc-short-term-rental-laws-whats-changing-in-october-2019-nomadic-real-estate). The study analyzes the correlation between the shrinking lower cost rental pool and the growth in popularity of short term rentals. It also recommends policy action to restrict and regulate home sharing platforms in the interest of DC renters. (?? maybe keep this line)
@@ -35,9 +36,20 @@ While rental market is affected by a host of factors like migration to and from 
  
 Based on the insights derived from the analyses of the listing data the following recommendations aim to regulate the short term rental market by encouraging the use of primary residence for home-sharing while limiting use of surplus properties towards long term rentals. These are: 
 1. Restrict use of homes surplus to primary residence for short-term rentals:  
->> - As evidenced by fig 1, hosts on Airbnb like platforms are more likely to list additional properties on the platform after the first one. Therefore, this regulation will stem this trend. 
+> - As evidenced by fig 1, hosts on Airbnb like platforms are more likely to list additional properties on the platform after the first one. Therefore, this regulation will stem this trend. 
 2. Relaxing the cap on the number of days a primary residence can be listed: 
->> - The current cap of 90 days a year one of the strictest in the country [[7]](https://www.2ndaddress.com/research/short-term-rental-laws/). A higher cap of 120 days or more will be friendly to the homeowners and tourists, as well bring tax income. 
+> - The current cap of 90 days a year one of the strictest in the country [[7]](https://www.2ndaddress.com/research/short-term-rental-laws/). A higher cap of 120 days or more will be friendly to the homeowners and tourists, as well bring tax income. 
  
-  
+
+## References:
+
+https://wamu.org/story/19/10/18/airbnb-remains-in-a-legal-gray-zone-in-d-c-as-officials-delay-decision-on-regulations/ 
+ 
+https://dcist.com/story/19/10/01/d-c-has-to-sort-out-some-zoning-before-airbnb-regulation-can-go-into-effect/ 
+ 
+http://apps.urban.org/features/OurChangingCity/housing/ 
+ 
+https://greaterdc.urban.org/blog/dcs-eviction-filings-are-down-are-high-rents-blame 
+ 
+https://dc.curbed.com/2017/2/2/14484318/airbnb-bill-dc-washington 
 
