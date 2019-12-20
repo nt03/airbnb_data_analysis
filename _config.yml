@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: minima
 layout: page
 title: "PAGE TITLE"
