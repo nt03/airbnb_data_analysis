@@ -1,6 +1,5 @@
 <center> <h1> Analysis of the Effect of Short-Term Rentals like Airbnb on DC Rental Space </h1> </center>
 
-<center> Neha Tiwari </center>
 
 ## Outline
 
@@ -17,7 +16,10 @@ In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by t
  
 Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with more than 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
 
-(( add image of listing host trend))
+<div>
+    <a href="https://plot.ly/~tneha03/1/?share_key=JuvqATlErkl4nq4c5lpmRd" target="_blank" title="hosts vs listings airbnb dc" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/1.png?share_key=JuvqATlErkl4nq4c5lpmRd" alt="hosts vs listings airbnb dc" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:1" sharekey-plotly="JuvqATlErkl4nq4c5lpmRd" src="https://plot.ly/embed.js" async></script>
+</div>
 
 As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year. In addition to this, in fig 2 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. 
 
