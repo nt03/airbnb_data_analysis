@@ -18,23 +18,27 @@ In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by t
  
 Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with over 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
  
- <add static plot for listing vs host>>
-     
-As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year.
+ <div>
+    <a href="https://plot.ly/~tneha03/25/?share_key=nq07TVUO18BHUKhjh53prl" target="_blank" title="Plot 25" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/25.png?share_key=nq07TVUO18BHUKhjh53prl" alt="Plot 25" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:25" sharekey-plotly="nq07TVUO18BHUKhjh53prl" src="https://plot.ly/embed.js" async></script>
+</div>
+    
+As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year. In this plot we can see that the number of listings has risen faster than hosts over the years. This indicates that new listings are more likely to originate from existing hosts than new hosts joining the platform. 
      
 <div>
     <a href="https://plot.ly/~tneha03/23/?share_key=SVVns9ED543zRbFVmEi5Ek" target="_blank" title="Plot 23" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/23.png?share_key=SVVns9ED543zRbFVmEi5Ek" alt="Plot 23" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="tneha03:23" sharekey-plotly="SVVns9ED543zRbFVmEi5Ek" src="https://plot.ly/embed.js" async></script>
 </div>
 
+Figure 2 looks at Airbnb "listing versus host" trend by neighborhood. This is an interactive plot that shows the number of unique Airbnb listings and hosts by neighborhood in DC over 2008 - 2019. In this plot we can see that the number of listings has risen faster than hosts over the years. In most neighborhoods,  the number of listings is higher than hosts, implying every neighborhood has people with properties to spare for long-term rental pool.
 
-As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year. In addition to this, in fig 2 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. 
 
 <div>
-    <a href="https://plot.ly/~tneha03/12/?share_key=1gu4ltdqPxOjGpfDBs4EIr" target="_blank" title="Plot 12" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/12.png?share_key=1gu4ltdqPxOjGpfDBs4EIr" alt="Plot 12" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="tneha03:12" sharekey-plotly="1gu4ltdqPxOjGpfDBs4EIr" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~tneha03/27/?share_key=MZikrJQEpNUKIRUpKHWlAa" target="_blank" title="Plot 27" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/27.png?share_key=MZikrJQEpNUKIRUpKHWlAa" alt="Plot 27" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:27" sharekey-plotly="MZikrJQEpNUKIRUpKHWlAa" src="https://plot.ly/embed.js" async></script>
 </div>
 
+In addition to this, in figure 3 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. Under city regulations homeowners are allowed to list only their primary residence as a short-term rental with a caveat that the whole house can be listed only for 90 days over the span of an year. While the data doesn’t allow us to see how long the whole property was listed for, it categorizes it as an entire house alluding that most Airbnb listings are in violation of the new regulations.  
 
 The analysis indicates that more homeowners are listing properties in addition to or besides their primary residences on this platform, proving that Airbnb has become an alternative to traditional 12-month leases for homeowners. It also validates the contention of lawmakers that platforms like Airbnb are likely absorbing properties that in normal course would have entered the rental market, thereby restricting housing supply and causing rental prices to increase.  The question also arises whether this trend has affected rental prices in DC adversely. Fig 3 plotting the trend of mean monthly rental prices since 2008 from Zillow [[6]](https://www.zillow.com/research/data/) indicates that over the period that airbnb listings have grown in DC, rental prices have also risen. 
 
@@ -43,6 +47,8 @@ The analysis indicates that more homeowners are listing properties in addition t
     <script data-plotly="tneha03:19" sharekey-plotly="9WV5AcV5C8klDHSR0Qca78" src="https://plot.ly/embed.js" async></script>
 </div>
 
+Although, there is no single dominating trend, in figure 4, which is rental price trend of 1 BR apartments by neighbourhoods, we can see a general upward trend for rental prices in most neighborhoods. 
+The plot is just intended to supplement the listing-host trend in different neighborhoods. It doesn’t establish a causative relationship between Airbnb listings and rental trend. Rents in general are a result of a host of factors relating to demand and supply, where short-term rentals are one of them. 
 
 While rental market is affected by a host of factors like migration to and from the city, housing market trends, property development market among others, there is no denying that home sharing platforms do play a role in affecting the pool of long term rentals. There are a host of factors that make short term rentals more attractive to homeowners than long term rentals like bigger profit margins due to higher daily rates and lower maintenance costs besides lesser regulation and oversight.  
  
@@ -64,8 +70,19 @@ There are 2 main data sources used in this analysis:
 The dataset contains information pertaining to listings, reviews and the calendar entries for bookings. The data for my analysis is restricted to ‘listings’ data. 
 The ‘listings.csv’ contains over 9,000 observations spanning 2008 to present. Each observation is a unique DC Airbnb listing. The other variables are related to the host attributes like location, responsiveness, availability, reviews; listing attributes like location, neighborhood, average rating, price and yearly availability, number of room and listing type, etc. 
 
+Transformations: The `first_review` column has been used as a proxy for when the property was first listed. It has been transformed to retain only the year of being listed. 
+
 2. Mean Rental data for 1 BR apartments by Neighborhoods from Zillow: 
 The dataset contains mean monthly rent for 1 bedroom apartment for all US neighborhoods from Feb, 2010 to present. The data was filtered to keep only DC neighborhoods. The columns were dropped to retain only entries for Feb of every year from 2010 to 2019 for the 23 DC neighborhoods in the dataset. It was also transformed from wide format to long.  
+
+Transformations: The data was filtered to keep only DC neighborhoods. The columns were dropped to retain only entries for Feb of every year from 2010 to 2019 for the 23 DC neighborhoods in the dataset. It was also transformed from wide format to long.  
+
+
+## Technologies used:
+1.	Python: All the data cleaning, wrangling and most of the data visualization was done in Python. Following libraries were used for the different tasks:
+a.	Pandas, Numpy, Re: Data cleaning and wrangling.
+b.	Plotly: Used for creating all the plots. Within plot.ly I have primarily used plotly graph objects and plotly express to make the interactive plots.
+2.	Plotly Chart Studio: I have used Chart Studio for minor editing limited to annotations and legend styling and to embed the html figures.  
 
 
 ## References:
