@@ -18,15 +18,27 @@ In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by t
  
 Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with over 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/17.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~tneha03/17/?share_key=dnssvZTEljCSeb7k1ZaIgB" target="_blank" title="Plot 17" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/17.png?share_key=dnssvZTEljCSeb7k1ZaIgB" alt="Plot 17" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:17" sharekey-plotly="dnssvZTEljCSeb7k1ZaIgB" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year. In addition to this, in fig 2 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/12.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~tneha03/12/?share_key=1gu4ltdqPxOjGpfDBs4EIr" target="_blank" title="Plot 12" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/12.png?share_key=1gu4ltdqPxOjGpfDBs4EIr" alt="Plot 12" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:12" sharekey-plotly="1gu4ltdqPxOjGpfDBs4EIr" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 The analysis indicates that more homeowners are listing properties in addition to or besides their primary residences on this platform, proving that Airbnb has become an alternative to traditional 12-month leases for homeowners. It also validates the contention of lawmakers that platforms like Airbnb are likely absorbing properties that in normal course would have entered the rental market, thereby restricting housing supply and causing rental prices to increase.  The question also arises whether this trend has affected rental prices in DC adversely. Fig 3 plotting the trend of mean monthly rental prices since 2008 from Zillow [[6]](https://www.zillow.com/research/data/) indicates that over the period that airbnb listings have grown in DC, rental prices have also risen. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/19.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~tneha03/19/?share_key=9WV5AcV5C8klDHSR0Qca78" target="_blank" title="Plot 19" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/19.png?share_key=9WV5AcV5C8klDHSR0Qca78" alt="Plot 19" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:19" sharekey-plotly="9WV5AcV5C8klDHSR0Qca78" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 While rental market is affected by a host of factors like migration to and from the city, housing market trends, property development market among others, there is no denying that home sharing platforms do play a role in affecting the pool of long term rentals. There are a host of factors that make short term rentals more attractive to homeowners than long term rentals like bigger profit margins due to higher daily rates and lower maintenance costs besides lesser regulation and oversight.  
  
