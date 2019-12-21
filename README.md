@@ -22,8 +22,7 @@ Home sharing platforms have been active in DC since 2008, Airbnb the largest amo
 
 As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year. In addition to this, in fig 2 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/12.embed"></iframe>
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/15.embed"></iframe>
 
 The analysis indicates that more homeowners are listing properties in addition to or besides their primary residences on this platform, proving that Airbnb has become an alternative to traditional 12-month leases for homeowners. It also validates the contention of lawmakers that platforms like Airbnb are likely absorbing properties that in normal course would have entered the rental market, thereby restricting housing supply and causing rental prices to increase.  The question also arises whether this trend has affected rental prices in DC adversely. Fig 3 plotting the trend of mean monthly rental prices since 2008 from Zillow [[6]](https://www.zillow.com/research/data/) indicates that over the period that airbnb listings have grown in DC, rental prices have also risen. 
 
