@@ -74,17 +74,12 @@ Based on the insights derived from the analyses of the listing data the followin
 There are 2 main data sources used in this analysis:
 
 1. Washington DC Airbnb dataset from Kaggle:
-
-The dataset contains information pertaining to listings, reviews and the calendar entries for bookings. The data for my analysis is restricted to ‘listings’ data. 
-The ‘listings.csv’ contains over 9,000 observations spanning 2008 to present. Each observation is a unique DC Airbnb listing. The other variables are related to the host attributes like location, responsiveness, availability, reviews; listing attributes like location, neighborhood, average rating, price and yearly availability, number of room and listing type, etc. 
-
-Transformations: The `first_review` column has been used as a proxy for when the property was first listed. It has been transformed to retain only the year of being listed. 
+- The dataset contains information pertaining to listings, reviews and the calendar entries for bookings. The data for my analysis is restricted to ‘listings’ data. The ‘listings.csv’ contains over 9,000 observations spanning 2008 to present. Each observation is a unique DC Airbnb listing. The other variables are related to the host attributes like location, responsiveness, availability, reviews; listing attributes like location, neighborhood, average rating, price and yearly availability, number of room and listing type, etc. 
+- Transformations: The `first_review` column has been used as a proxy for when the property was first listed. It has been transformed to retain only the year of being listed. 
 
 2. Mean Rental data for 1 BR apartments by Neighborhoods from Zillow: 
-
-The dataset contains mean monthly rent for 1 bedroom apartment for all US neighborhoods from Feb, 2010 to present. The dataset as is evident from figure 4 has lot of missing data points for early years. However, including the plot provides a relevant anchor to anchor general rental prices in DC. 
-
-Transformations: The data was filtered to keep only DC neighborhoods. The columns were dropped to retain only entries for Feb of every year from 2010 to 2019 for the 23 DC neighborhoods in the dataset. It was also transformed from wide format to long.  
+- The dataset contains mean monthly rent for 1 bedroom apartment for all US neighborhoods from Feb, 2010 to present. The dataset as is evident from figure 4 has lot of missing data points for early years. However, including the plot provides a relevant anchor to anchor general rental prices in DC. 
+- Transformations: The data was filtered to keep only DC neighborhoods. The columns were dropped to retain only entries for Feb of every year from 2010 to 2019 for the 23 DC neighborhoods in the dataset. It was also transformed from wide format to long.  
 
 
 ## Technologies used:
