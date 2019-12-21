@@ -16,7 +16,7 @@ In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by t
           
 ## Analyses and Key Findings: 
  
-Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with more than 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
+Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with over 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/17.embed"></iframe>
 
