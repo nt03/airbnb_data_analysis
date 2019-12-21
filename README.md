@@ -32,10 +32,9 @@ As we analyze the trend of listings and hosts since 2008, figure 1 shows that th
 
 Figure 2 looks at Airbnb "listing versus host" trend by neighborhood. This is an interactive plot that shows the number of unique Airbnb listings and hosts by neighborhood in DC over 2008 - 2019. In this plot we can see that the number of listings has risen faster than hosts over the years. In most neighborhoods,  the number of listings is higher than hosts, implying every neighborhood has people with properties to spare for long-term rental pool.
 
-
 <div>
-    <a href="https://plot.ly/~tneha03/27/?share_key=MZikrJQEpNUKIRUpKHWlAa" target="_blank" title="Plot 27" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/27.png?share_key=MZikrJQEpNUKIRUpKHWlAa" alt="Plot 27" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="tneha03:27" sharekey-plotly="MZikrJQEpNUKIRUpKHWlAa" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~tneha03/29/?share_key=39mOtFtarUb6LPyejzOMHU" target="_blank" title="Plot 29" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/29.png?share_key=39mOtFtarUb6LPyejzOMHU" alt="Plot 29" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:29" sharekey-plotly="39mOtFtarUb6LPyejzOMHU" src="https://plot.ly/embed.js" async></script>
 </div>
 
 In addition to this, in figure 3 which analyzes Airbnb listing types, we see that listings of the type 'whole house/Apt' predominate. This indicates that in comparison to new members joining the platform, existing hosts are more likely to list more properties on Airbnb. Under city regulations homeowners are allowed to list only their primary residence as a short-term rental with a caveat that the whole house can be listed only for 90 days over the span of an year. While the data doesn’t allow us to see how long the whole property was listed for, it categorizes it as an entire house alluding that most Airbnb listings are in violation of the new regulations.  
