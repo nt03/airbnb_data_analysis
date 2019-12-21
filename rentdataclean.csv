@@ -1,0 +1,231 @@
+,RegionName,State,year,mean_rent
+0,Columbia Heights,DC,2010,
+1,Columbia Heights,DC,2011,
+2,Columbia Heights,DC,2012,2135.0
+3,Columbia Heights,DC,2013,2491.0
+4,Columbia Heights,DC,2014,2024.0
+5,Columbia Heights,DC,2015,1925.0
+6,Columbia Heights,DC,2016,1934.0
+7,Columbia Heights,DC,2017,2375.0
+8,Columbia Heights,DC,2018,2100.0
+9,Columbia Heights,DC,2019,2384.0
+10,Adams Morgan,DC,2010,
+11,Adams Morgan,DC,2011,
+12,Adams Morgan,DC,2012,
+13,Adams Morgan,DC,2013,
+14,Adams Morgan,DC,2014,
+15,Adams Morgan,DC,2015,
+16,Adams Morgan,DC,2016,
+17,Adams Morgan,DC,2017,
+18,Adams Morgan,DC,2018,2200.0
+19,Adams Morgan,DC,2019,2445.0
+20,Logan Circle,DC,2010,
+21,Logan Circle,DC,2011,
+22,Logan Circle,DC,2012,2345.0
+23,Logan Circle,DC,2013,2600.0
+24,Logan Circle,DC,2014,2665.0
+25,Logan Circle,DC,2015,2494.0
+26,Logan Circle,DC,2016,2698.0
+27,Logan Circle,DC,2017,2637.5
+28,Logan Circle,DC,2018,2512.0
+29,Logan Circle,DC,2019,2469.0
+30,Dupont Circle,DC,2010,
+31,Dupont Circle,DC,2011,
+32,Dupont Circle,DC,2012,2500.0
+33,Dupont Circle,DC,2013,2357.5
+34,Dupont Circle,DC,2014,2520.0
+35,Dupont Circle,DC,2015,2550.0
+36,Dupont Circle,DC,2016,2500.0
+37,Dupont Circle,DC,2017,2350.0
+38,Dupont Circle,DC,2018,2545.0
+39,Dupont Circle,DC,2019,2500.0
+40,Foggy Bottom,DC,2010,
+41,Foggy Bottom,DC,2011,
+42,Foggy Bottom,DC,2012,
+43,Foggy Bottom,DC,2013,
+44,Foggy Bottom,DC,2014,
+45,Foggy Bottom,DC,2015,
+46,Foggy Bottom,DC,2016,
+47,Foggy Bottom,DC,2017,2067.5
+48,Foggy Bottom,DC,2018,2015.0
+49,Foggy Bottom,DC,2019,2259.5
+50,Mount Pleasant,DC,2010,
+51,Mount Pleasant,DC,2011,
+52,Mount Pleasant,DC,2012,
+53,Mount Pleasant,DC,2013,
+54,Mount Pleasant,DC,2014,
+55,Mount Pleasant,DC,2015,
+56,Mount Pleasant,DC,2016,
+57,Mount Pleasant,DC,2017,
+58,Mount Pleasant,DC,2018,
+59,Mount Pleasant,DC,2019,1800.0
+60,Georgetown,DC,2010,
+61,Georgetown,DC,2011,
+62,Georgetown,DC,2012,
+63,Georgetown,DC,2013,
+64,Georgetown,DC,2014,
+65,Georgetown,DC,2015,
+66,Georgetown,DC,2016,
+67,Georgetown,DC,2017,2253.0
+68,Georgetown,DC,2018,2351.0
+69,Georgetown,DC,2019,2297.0
+70,Shaw,DC,2010,
+71,Shaw,DC,2011,
+72,Shaw,DC,2012,
+73,Shaw,DC,2013,
+74,Shaw,DC,2014,
+75,Shaw,DC,2015,
+76,Shaw,DC,2016,
+77,Shaw,DC,2017,
+78,Shaw,DC,2018,2775.0
+79,Shaw,DC,2019,2433.0
+80,American University Park,DC,2010,
+81,American University Park,DC,2011,
+82,American University Park,DC,2012,
+83,American University Park,DC,2013,
+84,American University Park,DC,2014,
+85,American University Park,DC,2015,
+86,American University Park,DC,2016,
+87,American University Park,DC,2017,
+88,American University Park,DC,2018,
+89,American University Park,DC,2019,2030.0
+90,Cleveland Park,DC,2010,
+91,Cleveland Park,DC,2011,
+92,Cleveland Park,DC,2012,
+93,Cleveland Park,DC,2013,
+94,Cleveland Park,DC,2014,
+95,Cleveland Park,DC,2015,
+96,Cleveland Park,DC,2016,
+97,Cleveland Park,DC,2017,2000.0
+98,Cleveland Park,DC,2018,2000.0
+99,Cleveland Park,DC,2019,2058.0
+100,Near Northeast,DC,2010,
+101,Near Northeast,DC,2011,
+102,Near Northeast,DC,2012,
+103,Near Northeast,DC,2013,
+104,Near Northeast,DC,2014,
+105,Near Northeast,DC,2015,
+106,Near Northeast,DC,2016,
+107,Near Northeast,DC,2017,2145.0
+108,Near Northeast,DC,2018,2370.5
+109,Near Northeast,DC,2019,2715.0
+110,Southwest Waterfront,DC,2010,
+111,Southwest Waterfront,DC,2011,
+112,Southwest Waterfront,DC,2012,
+113,Southwest Waterfront,DC,2013,
+114,Southwest Waterfront,DC,2014,
+115,Southwest Waterfront,DC,2015,
+116,Southwest Waterfront,DC,2016,
+117,Southwest Waterfront,DC,2017,
+118,Southwest Waterfront,DC,2018,2429.0
+119,Southwest Waterfront,DC,2019,2516.0
+120,Mount Vernon Square,DC,2010,
+121,Mount Vernon Square,DC,2011,
+122,Mount Vernon Square,DC,2012,2325.0
+123,Mount Vernon Square,DC,2013,2305.0
+124,Mount Vernon Square,DC,2014,2307.5
+125,Mount Vernon Square,DC,2015,2325.0
+126,Mount Vernon Square,DC,2016,2405.0
+127,Mount Vernon Square,DC,2017,2295.0
+128,Mount Vernon Square,DC,2018,2301.5
+129,Mount Vernon Square,DC,2019,2495.0
+130,Glover Park,DC,2010,
+131,Glover Park,DC,2011,
+132,Glover Park,DC,2012,
+133,Glover Park,DC,2013,
+134,Glover Park,DC,2014,
+135,Glover Park,DC,2015,
+136,Glover Park,DC,2016,
+137,Glover Park,DC,2017,1763.0
+138,Glover Park,DC,2018,1650.0
+139,Glover Park,DC,2019,1632.5
+140,Forest Hills,DC,2010,
+141,Forest Hills,DC,2011,
+142,Forest Hills,DC,2012,
+143,Forest Hills,DC,2013,1928.0
+144,Forest Hills,DC,2014,1894.0
+145,Forest Hills,DC,2015,1895.0
+146,Forest Hills,DC,2016,1925.0
+147,Forest Hills,DC,2017,1974.0
+148,Forest Hills,DC,2018,1882.5
+149,Forest Hills,DC,2019,1941.5
+150,Navy Yard,DC,2010,
+151,Navy Yard,DC,2011,
+152,Navy Yard,DC,2012,
+153,Navy Yard,DC,2013,
+154,Navy Yard,DC,2014,
+155,Navy Yard,DC,2015,2162.0
+156,Navy Yard,DC,2016,2198.0
+157,Navy Yard,DC,2017,2255.0
+158,Navy Yard,DC,2018,2287.5
+159,Navy Yard,DC,2019,2477.0
+160,Woodley Park,DC,2010,
+161,Woodley Park,DC,2011,
+162,Woodley Park,DC,2012,
+163,Woodley Park,DC,2013,
+164,Woodley Park,DC,2014,2072.5
+165,Woodley Park,DC,2015,2080.0
+166,Woodley Park,DC,2016,2095.0
+167,Woodley Park,DC,2017,2150.0
+168,Woodley Park,DC,2018,2100.0
+169,Woodley Park,DC,2019,2000.0
+170,Downtown,DC,2010,
+171,Downtown,DC,2011,
+172,Downtown,DC,2012,
+173,Downtown,DC,2013,
+174,Downtown,DC,2014,
+175,Downtown,DC,2015,
+176,Downtown,DC,2016,
+177,Downtown,DC,2017,
+178,Downtown,DC,2018,2476.0
+179,Downtown,DC,2019,2550.0
+180,U Street Corridor,DC,2010,
+181,U Street Corridor,DC,2011,
+182,U Street Corridor,DC,2012,
+183,U Street Corridor,DC,2013,
+184,U Street Corridor,DC,2014,
+185,U Street Corridor,DC,2015,
+186,U Street Corridor,DC,2016,
+187,U Street Corridor,DC,2017,
+188,U Street Corridor,DC,2018,2649.0
+189,U Street Corridor,DC,2019,2877.0
+190,NoMa,DC,2010,
+191,NoMa,DC,2011,
+192,NoMa,DC,2012,
+193,NoMa,DC,2013,
+194,NoMa,DC,2014,
+195,NoMa,DC,2015,
+196,NoMa,DC,2016,
+197,NoMa,DC,2017,2180.0
+198,NoMa,DC,2018,2136.0
+199,NoMa,DC,2019,2235.0
+200,West End,DC,2010,
+201,West End,DC,2011,
+202,West End,DC,2012,
+203,West End,DC,2013,
+204,West End,DC,2014,
+205,West End,DC,2015,
+206,West End,DC,2016,
+207,West End,DC,2017,2946.5
+208,West End,DC,2018,2925.0
+209,West End,DC,2019,2911.0
+210,Gallaudet,DC,2010,
+211,Gallaudet,DC,2011,
+212,Gallaudet,DC,2012,
+213,Gallaudet,DC,2013,
+214,Gallaudet,DC,2014,
+215,Gallaudet,DC,2015,
+216,Gallaudet,DC,2016,
+217,Gallaudet,DC,2017,
+218,Gallaudet,DC,2018,1963.5
+219,Gallaudet,DC,2019,2187.5
+220,Penn Quarter,DC,2010,
+221,Penn Quarter,DC,2011,
+222,Penn Quarter,DC,2012,
+223,Penn Quarter,DC,2013,
+224,Penn Quarter,DC,2014,
+225,Penn Quarter,DC,2015,
+226,Penn Quarter,DC,2016,
+227,Penn Quarter,DC,2017,
+228,Penn Quarter,DC,2018,2475.0
+229,Penn Quarter,DC,2019,2400.0
