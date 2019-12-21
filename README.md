@@ -17,10 +17,14 @@ In 2018, the Bill "The Short-Term Rental Regulation Act of 2018" was passed by t
 ## Analyses and Key Findings: 
  
 Home sharing platforms have been active in DC since 2008, Airbnb the largest among them with over 9,000 listings [[5]](https://www.kaggle.com/airbnb) as of August 2019. Since entering DC home-sharing market in 2008, Airbnb has seen tremendous growth in uptake by DC residents. The number of listings and hosts, the individuals who list their properties on these platforms, are still increasing although at a decreasing rate. 
-
+ 
+ <add static plot for listing vs host>>
+     
+As we analyze the trend of listings and hosts since 2008, figure 1 shows that the number of unique hosts added per year to the platform peaked earlier than the number of unique listings added to airbnb per year.
+     
 <div>
-    <a href="https://plot.ly/~tneha03/17/?share_key=dnssvZTEljCSeb7k1ZaIgB" target="_blank" title="Plot 17" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/17.png?share_key=dnssvZTEljCSeb7k1ZaIgB" alt="Plot 17" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="tneha03:17" sharekey-plotly="dnssvZTEljCSeb7k1ZaIgB" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~tneha03/23/?share_key=SVVns9ED543zRbFVmEi5Ek" target="_blank" title="Plot 23" style="display: block; text-align: center;"><img src="https://plot.ly/~tneha03/23.png?share_key=SVVns9ED543zRbFVmEi5Ek" alt="Plot 23" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tneha03:23" sharekey-plotly="SVVns9ED543zRbFVmEi5Ek" src="https://plot.ly/embed.js" async></script>
 </div>
 
 
@@ -51,6 +55,18 @@ Based on the insights derived from the analyses of the listing data the followin
 2. Relaxing the cap on the number of days a primary residence can be listed: 
 > - The current cap of 90 days a year one of the strictest in the country [[7]](https://www.2ndaddress.com/research/short-term-rental-laws/). A higher cap of 120 days or more will be friendly to the homeowners and tourists, as well bring tax income. 
  
+ 
+## Data:
+
+There are 2 main data sources used in this analysis:
+
+1. Washington DC Airbnb dataset from Kaggle:
+The dataset contains information pertaining to listings, reviews and the calendar entries for bookings. The data for my analysis is restricted to ‘listings’ data. 
+The ‘listings.csv’ contains over 9,000 observations spanning 2008 to present. Each observation is a unique DC Airbnb listing. The other variables are related to the host attributes like location, responsiveness, availability, reviews; listing attributes like location, neighborhood, average rating, price and yearly availability, number of room and listing type, etc. 
+
+2. Mean Rental data for 1 BR apartments by Neighborhoods from Zillow: 
+The dataset contains mean monthly rent for 1 bedroom apartment for all US neighborhoods from Feb, 2010 to present. The data was filtered to keep only DC neighborhoods. The columns were dropped to retain only entries for Feb of every year from 2010 to 2019 for the 23 DC neighborhoods in the dataset. It was also transformed from wide format to long.  
+
 
 ## References:
 
