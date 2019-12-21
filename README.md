@@ -26,7 +26,7 @@ As we analyze the trend of listings and hosts since 2008, figure 1 shows that th
 
 The analysis indicates that more homeowners are listing properties in addition to or besides their primary residences on this platform, proving that Airbnb has become an alternative to traditional 12-month leases for homeowners. It also validates the contention of lawmakers that platforms like Airbnb are likely absorbing properties that in normal course would have entered the rental market, thereby restricting housing supply and causing rental prices to increase.  The question also arises whether this trend has affected rental prices in DC adversely. Fig 3 plotting the trend of mean monthly rental prices since 2008 from Zillow [[6]](https://www.zillow.com/research/data/) indicates that over the period that airbnb listings have grown in DC, rental prices have also risen. 
 
-(( add rent trend plot))
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~tneha03/19.embed"></iframe>
 
 While rental market is affected by a host of factors like migration to and from the city, housing market trends, property development market among others, there is no denying that home sharing platforms do play a role in affecting the pool of long term rentals. There are a host of factors that make short term rentals more attractive to homeowners than long term rentals like bigger profit margins due to higher daily rates and lower maintenance costs besides lesser regulation and oversight.  
  
